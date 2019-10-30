@@ -41,3 +41,5 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+Original version [of project](http://blackrockdigital.github.io/startbootstrap-landing-page/#)
