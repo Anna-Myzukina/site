@@ -20,7 +20,11 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
+<<<<<<< HEAD
   background: url(assets/bg-masthead.jpg) no-repeat center center;
+=======
+  background: url(../img/bg-masthead.jpg) no-repeat center center;
+>>>>>>> sign-up
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem
@@ -80,8 +84,12 @@ header.masthead h1 {
 }
 
 .features-icons .features-icons-item .features-icons-icon i {
+<<<<<<< HEAD
   font-size: 4.5rem;
   color: #007bff!important;
+=======
+  font-size: 4.5rem
+>>>>>>> sign-up
 }
 
 .features-icons .features-icons-item:hover .features-icons-icon i {
@@ -105,7 +113,11 @@ header.masthead h1 {
 .call-to-action {
   position: relative;
   background-color: #343a40;
+<<<<<<< HEAD
   background: url(../images/bg-masthead.jpg) no-repeat center center;
+=======
+  background: url(../img/bg-masthead.jpg) no-repeat center center;
+>>>>>>> sign-up
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem
