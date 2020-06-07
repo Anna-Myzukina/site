@@ -43,3 +43,28 @@ For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
 
 Original version [of project](http://blackrockdigital.github.io/startbootstrap-landing-page/#)
+
+- [ ] Finally, run the test suite to verify that everything is working correctly:
+
+```
+$ rails generate rspec:install
+```
+
+```
+$ rspec
+```
+
+## Show your support
+
+- [ ] Give a ⭐️ if you like this project!
+
+## 📝 License
+
+* [ ] See [LICENSE.md]() for details.
+
+## Authors
+
+👤 **Author1**
+* GitHub: [Anna Muzykina](https://github.com/Anna-Myzukina)
+* LinkedIn: [Anna Muzykina](https://www.linkedin.com/in/anna-muzykina/)
+* email: anna.muzykina83@gmail.com
